@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="8" failures="0" name="com.techt.informationmanagementsystem.InformationManagementSystemTest" time="0.007" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_251\jre\bin"/>
+    <property name="java.vm.version" value="25.251-b08"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\techt\InventoryManagementSystem"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\techt\InventoryManagementSystem"/>
+    <property name="java.runtime.version" value="1.8.0_251-b08"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_251\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Daksh\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="D:\netbeans\NetBeans-16\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="D:\netbeans\NetBeans-16\netbeans\java\maven\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_251\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.1.0\;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Android;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\apache-maven-3.8.1\bin;C:\Program Files\dotnet\;C:\TDM-GCC-32\bin;C:\Program Files\nodejs\;D:\bin;C:\Program Files\MATLAB\R2022a\bin;C:\Program Files\Tesseract-OCR\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\PuTTY\;%JAVA_HOME%\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daksh\Anaconda3;C:\Users\Daksh\Anaconda3\Library\mingw-w64\bin;C:\Users\Daksh\Anaconda3\Library\usr\bin;C:\Users\Daksh\Anaconda3\Library\bin;C:\Users\Daksh\Anaconda3\Scripts;C:\Users\Daksh\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Daksh\AppData\Local\Programs\Python\Python38-32\;C:\Users\Daksh\AppData\Local\Microsoft\WindowsApps;C:\Users\Daksh\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\bin;C:\Modeltech_pe_edu_10.4a\win32pe_edu;C:\Program Files\heroku\bin;C:\Users\Daksh\AppData\Local\GitHubDesktop\bin;C:\Users\Daksh\AppData\Roaming\npm;C:\Program Files\Tesseract-OCR\;D:\flutter_windows_3.7.3-stable\flutter\bin;;."/>
+    <property name="maven.conf" value="D:\netbeans\NetBeans-16\netbeans\java\maven/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="D:\netbeans\NetBeans-16\netbeans\java\maven\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Daksh"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Daksh"/>
+    <property name="java.class.path" value="D:\netbeans\NetBeans-16\netbeans\java\maven\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_251\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=D:\netbeans\NetBeans-16\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_251"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_251\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_251\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_251\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_251\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\netbeans\NetBeans-16\netbeans\java\maven"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="updateInvalidItem" time="0.007"/>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="updateItemInvalidQtyTest" time="0"/>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="addInvalidItemTest" time="0"/>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="removeItemTest" time="0"/>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="addItemTest" time="0"/>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="removeInvalidItem" time="0"/>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="getInventoryTest" time="0"/>
+  <testcase classname="com.techt.informationmanagementsystem.InformationManagementSystemTest" name="updateItemTest" time="0"/>
+</testsuite>

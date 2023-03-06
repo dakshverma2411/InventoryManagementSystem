@@ -1,0 +1,6 @@
+com\techt\inventorymanagementsystem\models\Inventory.class
+com\techt\inventorymanagementsystem\exceptions\InvalidItemIdException.class
+com\techt\inventorymanagementsystem\InventoryManagementSystem.class
+com\techt\inventorymanagementsystem\exceptions\InvalidItemQuantity.class
+com\techt\inventorymanagementsystem\models\Item.class
+com\techt\inventorymanagementsystem\services\IdGenerationService.class
